@@ -24,3 +24,6 @@ if(friends.includes(252) !== -1){
 }
 
 // concat: join something with others
+const newFriendAge =[12, 13, 11, 13];
+const allFriends = newFriendAge(friends);
+console.log(allFriends);
